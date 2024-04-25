@@ -23,4 +23,4 @@ The "parch_setup.sh" script automates the initial setup process for systems runn
    The script will guide you through the setup process. Follow the on-screen instructions to complete the setup.
 
 5. **Customize as Needed:**
-   You can customize the script by modifying variables or adding/removing tasks according to your specific requirements. Open the script in a text editor to make modifications.
+   You can customize the script by modifying variables or adding/removing tasks according to your specific requirements. 
